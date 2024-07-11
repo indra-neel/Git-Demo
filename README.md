@@ -1,3 +1,3 @@
 # Git-Demo
-Explaining git concepts
-## Sub heading
+## updating in git hub
+
